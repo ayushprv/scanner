@@ -1,0 +1,23 @@
+{
+  "name": "bank-apk-scanner",
+  "version": "1.0.0",
+  "description": "Bank APK Security Scanner using VirusTotal API",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build completed'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1"
+  },
+  "keywords": [
+    "security",
+    "apk",
+    "scanner",
+    "banking",
+    "virustotal"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
